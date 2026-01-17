@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kumar99charan
-- 👀 I’m interested in web development
 - 📫 reach me kumar99charan@gmail.com
 
 <!---
